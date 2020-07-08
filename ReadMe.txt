@@ -21,5 +21,5 @@ Other info:
 
 Contributions:
 	Java code / ReadMe.txt - Ryan
-	SQL file Updates - Dylan
-	
+	SQL/Jave/ER Diagram Updates - Dylan
+	Deliverable 3 (The foundation of Deliverable 4 :)  ) - Jonah
