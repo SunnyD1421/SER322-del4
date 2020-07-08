@@ -1,13 +1,13 @@
 ## SER322-del4
 # Setup
-	To set up the database, create a new empty database and use the supplied .sql 
+	-To set up the database, create a new empty database and use the supplied .sql 
 		(InventoryDB_Team18_setup.sql in the db directory) file to initialize the tables.
-	This can be done by running the following from the MQL command line:
+	-This can be done by running the following from the MQL command line:
 		CREATE DATABASE inventory
 		USE inventory
 		SOURCE <path to .sql file>
 # Run	
-	To run the application, run java InventoryUI <URL> <USER> <PASSWD> <DRIVER> 
+	-To run the application, run java InventoryUI <URL> <USER> <PASSWD> <DRIVER> 
 		and follow the console prompts to run queries.
 
 # Other info:
