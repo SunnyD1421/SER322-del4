@@ -1,4 +1,4 @@
-# SER322-del4
+## SER322-del4
 
 To set up the database, create a new empty database and use the supplied .sql 
 	(InventoryDB_Team18_setup.sql in the db directory) file to initialize the tables.
