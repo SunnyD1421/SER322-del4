@@ -3,7 +3,7 @@ Team 18
 Jonah Cole, Ryan Cluff, Dylan Sund
 
 
-To setup the database, create a new empty database and use the supplied .sql 
+To set up the database, create a new empty database and use the supplied .sql 
 	(InventoryDB_Team18_setup.sql in the db directory) file to initialize the tables.
 This can be done by running the following from the MQL command line:
 	CREATE DATABASE inventory
@@ -23,4 +23,5 @@ Other info:
 
 Contributions:
 	Java code / ReadMe.txt - Ryan
+	SQL file Updates - Dylan
 	
