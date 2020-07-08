@@ -13,8 +13,6 @@ This can be done by running the following from the MQL command line:
 To run the application, run java InventoryUI <URL> <USER> <PASSWD> <DRIVER> 
 	and follow the console prompts to run queries.
 
-Video:
-
 Other info:
 	- In the db directory, there are the .sql files from Deliverable 3. 
 	- An additional .sql file, InventoryDB_Team18_setup.sql, was created as a 
