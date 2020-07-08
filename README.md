@@ -15,3 +15,4 @@ Other info:
 	- An additional .sql file, InventoryDB_Team18_setup.sql, was created as a 
 	  combination of the create and insert .sql files to simplify the setup of the database.
 	- The updated ER diagram is located in the doc directory
+ 
